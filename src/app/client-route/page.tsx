@@ -1,5 +1,4 @@
 "use client";
-
 export default function page() {
   return (
     <div className="text-3xl text-white text-center bg-gray-600">
